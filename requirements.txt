@@ -1,0 +1,8 @@
+numpy
+pandas
+tables
+matplotlib
+seaborn
+scipy
+python-dateutil
+
